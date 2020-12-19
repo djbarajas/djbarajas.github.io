@@ -16,22 +16,34 @@
             </p>
             <div class="columns is-vcentered is-centered my-0">
               <div class="column">
-            <a href="https://ewwong2.github.io/Agami/">Website</a>
+                <b><a href="https://ewwong2.github.io/Agami/">Website</a></b>
               </div>
               <div class="column">
-            <a href="https://www.cs.usfca.edu/~apjoshi/papers/agami-bdcat2020.pdf">Research Paper</a>
+                <b><a href="https://www.cs.usfca.edu/~apjoshi/papers/agami-bdcat2020.pdf">Research Paper</a></b>
               </div>
             </div>
           </template>
         </Project>
-        <Project image="canvas-by-instructure-logo.png" title="Canvas API">
+        <Project image="canvas-by-instructure-logo.png" title="Rubrics From Canvas">
           <template v-slot:text>
-            <p>This is a test</p>
+            <p>
+              Analyzed feedback from students reviews in a Data Visualization class using
+              python sentiment detection libraries and MySQL, VADER. The code to gather
+              Canvas Course data can be found below.
+            </p>
+            <div class="my-2">
+            <b><a href="https://github.com/djbarajas/canvas-rubrics-api">Code</a></b>
+            </div>
           </template>
         </Project>
         <Project image="Yelp_Logo.svg" title="Restaurant Recommender">
           <template v-slot:text>
-            <p>This is a test</p>
+            <p>
+              Created a restaurant recommender using Pearson's Correlation along with
+              a page computing the tf-idf of a set of reviews of a restaurant to find
+              frequent topics.  Data was gathered through the Yelp API of restaurants
+              in San Francisco and stored in an in memory database using Sqlite3.
+            </p>
           </template>
         </Project>
         <MoreInformation id="more"></MoreInformation>

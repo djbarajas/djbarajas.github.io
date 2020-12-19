@@ -6,14 +6,11 @@
       <p>More About Me</p>
     </div>
     <div class="message-body">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      <strong>Pellentesque risus mi</strong>,
-      tempus quis placerat ut, porta nec nulla. Vestibulum rhoncus ac ex
-      sit amet fringilla. Nullam gravida purus diam, et dictum <a>felis
-      venenatis</a> efficitur. Aenean ac <em>eleifend lacus</em>,
-      in mollis lectus. Donec sodales, arcu et sollicitudin porttitor,
-      tortor urna tempor ligula, id porttitor mi magna a neque. Donec dui
-      urna, vehicula et sem eget, facilisis sodales sem.
+      I have mostly backend experience.  I know Python, Java, and C.
+      I have specific experience with the creation and use of SQL in
+      Python and Java, Machine Learning Libraries in python as well
+      as some front end experience with Bulma and Vue.  I enjoy coding
+      and video games.
     </div>
   </article>
     </div>
