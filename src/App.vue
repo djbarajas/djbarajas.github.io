@@ -4,7 +4,18 @@
       <TheNavbar></TheNavbar>
       <div style="max-width: 900px; margin:auto;" class="is-centered">
         <AboutMe id="about"></AboutMe>
-        <Project id="projects" image="agami_landing.svg" title="Agami">
+        <h1 id="projects" class="mt-6 has-text-grey-lighter title is-2">Projects</h1>
+        <Project image="agami_landing.svg" title="Agami">
+          <template v-slot:text>
+            <p>This is a test</p>
+          </template>
+        </Project>
+        <Project image="Yelp_Logo.svg" title="Restaurant Recommender">
+          <template v-slot:text>
+            <p>This is a test</p>
+          </template>
+        </Project>
+        <Project image="canvas-by-instructure-logo.png" title="Canvas API">
           <template v-slot:text>
             <p>This is a test</p>
           </template>
@@ -33,8 +44,10 @@ export default {
 </script>
 
 <style lang="scss">
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Raleway&display=swap');
+
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: Raleway, Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
@@ -44,5 +57,8 @@ export default {
   background: linear-gradient(217deg, rgba(44,79,153,.8), rgba(255,0,0,0) 70.71%),
   linear-gradient(127deg, rgba(44,124,153,.8), rgba(0,255,0,0) 70.71%),
   linear-gradient(336deg, rgba(72,77,161,.8), rgba(0,0,255,0) 70.71%);
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Open Sans', Raleway, Avenir, Helvetica, Arial, sans-serif;
 }
 </style>
