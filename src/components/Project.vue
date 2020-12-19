@@ -11,7 +11,6 @@
         </div>
         <div class="media-content">
           <p class="title is-4">{{ title }}</p>
-          <br>
           <slot name="text"></slot>
         </div>
       </div>

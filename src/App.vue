@@ -7,15 +7,29 @@
         <h1 id="projects" class="mt-6 has-text-grey-lighter title is-2">Projects</h1>
         <Project image="agami_landing.svg" title="Agami">
           <template v-slot:text>
-            <p>This is a test</p>
+            <p>
+              Designed a weather predictor using machine learning
+              XGBoost given location based on the date, time, and location
+              to visualize streaming data. Training and testing models
+              through Scikit-Learn in order to increase efficiency and speed.
+              Extended applications for the algorithm can be used for any data.
+            </p>
+            <div class="columns is-vcentered is-centered my-0">
+              <div class="column">
+            <a href="https://ewwong2.github.io/Agami/">Website</a>
+              </div>
+              <div class="column">
+            <a href="https://www.cs.usfca.edu/~apjoshi/papers/agami-bdcat2020.pdf">Research Paper</a>
+              </div>
+            </div>
           </template>
         </Project>
-        <Project image="Yelp_Logo.svg" title="Restaurant Recommender">
+        <Project image="canvas-by-instructure-logo.png" title="Canvas API">
           <template v-slot:text>
             <p>This is a test</p>
           </template>
         </Project>
-        <Project image="canvas-by-instructure-logo.png" title="Canvas API">
+        <Project image="Yelp_Logo.svg" title="Restaurant Recommender">
           <template v-slot:text>
             <p>This is a test</p>
           </template>
