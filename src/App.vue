@@ -14,7 +14,7 @@
               through Scikit-Learn in order to increase efficiency and speed.
               Extended applications for the algorithm can be used for any data.
             </p>
-            <div class="columns is-vcentered is-centered my-0">
+            <div class="columns is-vcentered is-centered">
               <div class="column">
                 <b><a href="https://ewwong2.github.io/Agami/">Website</a></b>
               </div>

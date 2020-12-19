@@ -13,7 +13,7 @@
           </div>
 
           <div class="content">
-            I am an undergraduate computer science major seeking a software engineer job.
+            I am an undergraduate computer science major seeking a software engineer position.
             <br>
               <a href="https://www.linkedin.com/in/djbarajas/"><img src="LinkedIn-Icon-Logo.svg" class="my-0" style="max-width: 70px"/></a>
               <a href="https://github.com/djbarajas"><img src="Octicons-mark-github.svg" style="max-width: 30px"/></a>

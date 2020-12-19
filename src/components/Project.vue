@@ -1,5 +1,5 @@
 <template>
-  <div class="columns">
+  <div class="columns is-vcentered">
     <div class="column is-two-thirds is-offset-one-fifth">
   <div class="card">
     <div class="card-content">
