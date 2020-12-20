@@ -13,7 +13,9 @@
           </div>
 
           <div class="content">
-            I am an undergraduate computer science major seeking a software engineer position.
+            I am an undergraduate computer science major at
+            the University of San Francisco seeking a software
+            engineer position.
             <br>
             <div class="columns is-vcentered is-centered is-gapless">
               <div class="column is-narrow">
