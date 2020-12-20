@@ -3,17 +3,17 @@
     <div class="column">
   <div class="card mx-5">
     <div class="card-content">
-      <div class="media">
-        <div class="media-left">
+      <div class="media is-block-mobile">
+        <div class="media-left mb-5">
           <figure class="image is-50x50">
-            <img :src="image" style="max-width: 200px">
+            <img :src="image" style="max-width: 200px; margin: auto;">
           </figure>
         </div>
-        <div class="media-content">
+          <div class="content">
           <p class="title is-4">{{ title }}</p>
           <slot name="text"></slot>
+          </div>
         </div>
-      </div>
     </div>
   </div>
   </div>

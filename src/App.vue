@@ -2,7 +2,7 @@
   <div id="back">
     <div id="app">
       <TheNavbar></TheNavbar>
-      <div style="max-width: 900px; margin:auto;" class="is-centered">
+      <div style="max-width: 900px; margin:auto;" class="is-centered py-5">
         <AboutMe id="about"></AboutMe>
         <h1 id="projects" class="mt-6 has-text-grey-lighter title is-2">Projects</h1>
         <Project image="agami_landing.svg" title="Agami">
@@ -46,7 +46,8 @@
             </p>
           </template>
         </Project>
-        <MoreInformation id="more"></MoreInformation>
+        <h1 id="more" class="mt-6 has-text-grey-lighter title is-2">More Information</h1>
+        <MoreInformation></MoreInformation>
       </div>
     </div>
   </div>

@@ -17,12 +17,16 @@
             the University of San Francisco seeking a software
             engineer position.
             <br>
-            <div class="columns is-vcentered is-centered is-gapless">
+            <div class="columns is-vcentered is-centered is-gapless is-mobile">
               <div class="column is-narrow">
-              <a href="https://www.linkedin.com/in/djbarajas/"><img src="LinkedIn-Icon-Logo.svg" style="max-width: 70px"/></a>
+                <a href="https://www.linkedin.com/in/djbarajas/">
+                  <img src="LinkedIn-Icon-Logo.svg" style="max-width: 70px"/>
+                </a>
               </div>
               <div class="column is-narrow">
-              <a href="https://github.com/djbarajas"><img src="Octicons-mark-github.svg" style="max-width: 32px"/></a>
+                <a href="https://github.com/djbarajas">
+                  <img src="Octicons-mark-github.svg" style="max-width: 32px"/>
+                </a>
               </div>
             </div>
           </div>
