@@ -1,7 +1,7 @@
 <template>
-  <div class="columns">
-    <div class="column is-two-thirds is-offset-one-fifth">
-  <article class="message">
+  <div class="columns is-vcentered is-centered">
+    <div class="column">
+  <article class="message mx-5">
     <div class="message-header">
       <p>More About Me</p>
     </div>

@@ -1,7 +1,7 @@
 <template>
-  <div class="columns is-vcentered">
-    <div class="column is-two-thirds is-offset-one-fifth">
-  <div class="card">
+  <div class="columns is-vcentered is-centered">
+    <div class="column">
+  <div class="card mx-5">
     <div class="card-content">
       <div class="media">
         <div class="media-left">
