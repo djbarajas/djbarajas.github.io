@@ -13,9 +13,7 @@
           </div>
 
           <div class="content">
-            I am an undergraduate computer science major at
-            the University of San Francisco seeking a software
-            engineer position.
+            I am a software engineer at Rescale.
             <br>
             <div class="columns is-vcentered is-centered is-gapless is-mobile">
               <div class="column is-narrow">
